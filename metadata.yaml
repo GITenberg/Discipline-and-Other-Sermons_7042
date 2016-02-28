@@ -1,0 +1,37 @@
+_repo: Discipline-and-Other-Sermons_7042
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: One of his chief theological works and an engrossing read for any student
+  of theology, Discipline and Other Sermons collects the famous clergyman's meditations
+  on such subjects as the title sermon, discipline, as well as wisdom, prayer, the
+  humanity of God, the Good Samaritan, humility, the kingdom of Christ, and more.
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcsh 'Church of England -- Sermons'
+tableOfContents: Discipline -- The temple of wisdom -- Prayer and science -- God's
+  training -- Good Friday -- False civilization -- The name of God -- The end of religion
+  -- The humanity of God -- God's world -- The armour of God -- Paul and Felix --
+  The good Samaritan -- Consider the lilies of the field -- The Jewish rebellions
+  -- Terror by night -- The Son of Thunder -- Humility -- A Whitsun sermon -- Self-help
+  -- Endurance -- Toleration -- The kingdom of Christ -- The likeness of God.
+title: Discipline and Other Sermons
+url: http://www.gutenberg.org/ebooks/7042
